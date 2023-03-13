@@ -9,4 +9,7 @@ Topics covered:
 [x] Loops
 [x] Functions
 [x] Packages and Imports
+[x] Structs
+
+
 # go-basics
