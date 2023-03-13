@@ -1,12 +1,12 @@
 Topics covered:
 
-[X] Variables & Constants
-[X] Data Types
-[X] User Input
-[X] Pointers
-[X] Arrays and Slices
-[X] Conditionals
-[X] Loops
-[X] Functions
-[X] Packages and Imports
+[x] Variables & Constants
+[x] Data Types
+[x] User Input
+[x] Pointers
+[x] Arrays and Slices
+[x] Conditionals
+[x] Loops
+[x] Functions
+[x] Packages and Imports
 # go-basics
