@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"helloWorld/utils"
+)
 
 func main() {
 	// declaring variables and constants with data types
@@ -42,4 +45,5 @@ func main() {
 		fmt.Println(printOut)
 	}
 
+	utils.PrintUtil()
 }
